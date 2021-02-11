@@ -5,7 +5,7 @@ This component is a tool that sends notification when user is mentioned in posts
 
 The component requires https://www.opensource-socialnetwork.org/component/view/4844/mentions-ui
 
-This send notification only if person is tagged in
+This send notification only if person is tagged in comments of following:
 
 - Wall post created using newsfeed/profile.
 - Profile photos.
